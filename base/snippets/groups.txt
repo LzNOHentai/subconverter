@@ -1,13 +1,18 @@
-🔰 节点选择`select`[]♻️ 自动选择`[]🎯 全球直连`.*
-♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300
-;🎥 NETFLIX`select`[]🔰 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
-;⛔️ 广告拦截`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
-;🚫 运营劫持`select`[]🛑 全球拦截`[]🎯 全球直连`[]🔰 节点选择
-🌍 国外媒体`select`[]🔰 节点选择`[]♻️ 自动选择`[]🎯 全球直连`.*
-🌏 国内媒体`select`[]🎯 全球直连`(HGC|HKBN|PCCW|HKT|深台|彰化|新北|台|hk|港|tw)`[]🔰 节点选择
-Ⓜ️ 微软服务`select`[]🎯 全球直连`[]🔰 节点选择`.*
-📲 电报信息`select`[]🔰 节点选择`[]🎯 全球直连`.*
-🍎 苹果服务`select`[]🔰 节点选择`[]🎯 全球直连`[]♻️ 自动选择`.*
-🎯 全球直连`select`[]DIRECT
-🛑 全球拦截`select`[]REJECT`[]DIRECT
-🐟 漏网之鱼`select`[]🔰 节点选择`[]🎯 全球直连`[]♻️ 自动选择`.*
+🔰 Proxies`select`[]♻️ Auto`[]🎯 Direct`.*
+♻️ Auto`url-test`.*`http://www.gstatic.com/generate_204`300
+🎥 NETFLIX`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
+🎥 AbemaTV`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP
+🎥 YouTube`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
+🎥 NicoNico`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇸🇬 SG
+🌍 GlobalMedia`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG`.*
+🌏 CNMedia`select`[]🎯 Direct`[]🔰 Proxies
+🌏 HKMTMedia`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇹🇼 TW
+⚡ SpeedTest`select`[]🎯 Direct`[]🔰 Proxies
+Ⓜ️ Microsoft`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG`.*
+📲 Telegram`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇸🇬 SG
+🍎 Apple`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US
+🎮 Steam`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`.*
+💰 PayPal`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`.*
+🎯 Direct`select`[]DIRECT
+🛑 Reject`select`[]REJECT`[]🔰 Proxies`[]DIRECT
+🐟 Others`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG`.*
