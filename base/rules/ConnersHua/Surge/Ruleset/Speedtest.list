@@ -1,4 +1,4 @@
 # > Speedtest
-- DOMAIN-SUFFIX,fast.com
-- DOMAIN-KEYWORD,speedtest
-- DOMAIN-SUFFIX,ooklaserver.net
+- DOMAIN-SUFFIX,fast.com,Speedtest
+- DOMAIN-KEYWORD,speedtest,Speedtest
+- DOMAIN-SUFFIX,ooklaserver.net,Speedtest
