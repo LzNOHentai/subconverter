@@ -38,3 +38,9 @@ EU,🇪🇺
 (ZA|南非),🇿🇦
 (?i:TW|Taiwan|新北|彰化|CHT|台湾|[^-]台|HINET),🇨🇳
 (?i:CN|China|回国|中国|江苏|北京|上海|广州|深圳|杭州|常州|徐州|青岛|宁波|镇江|成都|back),🇨🇳
+(Switzerland|瑞士),🇨🇭
+(Norway|挪威|奥斯陆),🇳🇴
+(Bulgaria|保加利亚|索非亚),🇧🇬
+(Hungary|匈牙利|布达佩斯|米什科尔茨),🇭🇺
+(South Africa|南非|开普敦|约翰内斯堡|德班),🇿🇦
+(United Arab Emirates|Arab|阿联酋|迪拜),🇦🇪

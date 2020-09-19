@@ -4,15 +4,16 @@
 🎥 AbemaTV`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP
 🎥 YouTube`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
 🎥 NicoNico`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇸🇬 SG
-🌍 GlobalMedia`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG`.*
-🌏 CNMedia`select`[]🎯 Direct`[]🔰 Proxies
-🌏 HKMTMedia`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇹🇼 TW
+🎥 Amazon`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
 ⚡ SpeedTest`select`[]🎯 Direct`[]🔰 Proxies
-Ⓜ️ Microsoft`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG`.*
+Ⓜ️ Microsoft`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
 📲 Telegram`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇸🇬 SG
 🍎 Apple`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US
 🎮 Steam`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`.*
-💰 PayPal`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`.*
+💰 PayPal`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US
+🌍 GlobalMedia`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
+🌏 CNMedia`select`[]🎯 Direct`[]🔰 Proxies
+🌏 HKMTMedia`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇹🇼 TW
 🎯 Direct`select`[]DIRECT
 🛑 Reject`select`[]REJECT`[]🔰 Proxies`[]DIRECT
-🐟 Others`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG`.*
+🐟 Others`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
