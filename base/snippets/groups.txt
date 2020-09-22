@@ -14,6 +14,7 @@
 🌍 GlobalMedia`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
 🌏 CNMedia`select`[]🎯 Direct`[]🔰 Proxies
 🌏 HKMTMedia`select`[]🎯 Direct`[]🔰 Proxies`[]🇭🇰 HK`[]🇹🇼 TW
+🔰 PrivateTracker`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG
 🎯 Direct`select`[]DIRECT
 🛑 Reject`select`[]REJECT`[]🔰 Proxies`[]DIRECT
 🐟 Others`select`[]🔰 Proxies`[]🎯 Direct`[]🇭🇰 HK`[]🇯🇵 JP`[]🇺🇸 US`[]🇹🇼 TW`[]🇸🇬 SG

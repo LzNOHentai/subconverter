@@ -22,6 +22,7 @@
 🌏 CNMedia,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/StreamingCN.list
 ⚡ SpeedTest,https://raw.githubusercontent.com/LzNOHentai/subconverter/Myself/base/rules/ConnersHua/Surge/Ruleset/Speedtest.list
 🔰 Proxies,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list
+🔰 PrivateTracker,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/PrivateTracker.list
 🎯 Direct,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 🎯 Direct,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
 🎯 Direct,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
